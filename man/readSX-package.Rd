@@ -6,14 +6,14 @@
 \alias{readSX-package}
 \title{readSX: Read 'SurveyXact' Data}
 \description{
-Imports data from the 'SurveyXact' commercial service \url{https://www.surveyxact.com/}, adds variable labels, and converts value labels to factors in the same order as exported from 'SurveyXact'.
+Imports data from the 'SurveyXact' commercial service \url{https://rambollxact.com}, adds variable labels, and converts value labels to factors in the same order as exported from 'SurveyXact'.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/sda030/readSX}
-  \item \url{https://sda030.github.io/readSX/}
-  \item Report bugs at \url{https://github.com/sda030/readSX/issues}
+  \item \url{https://github.com/NIFU-NO/readSX}
+  \item \url{https://NIFU-NO.github.io/readSX/}
+  \item Report bugs at \url{https://github.com/NIFU-NO/readSX/issues}
 }
 
 }
